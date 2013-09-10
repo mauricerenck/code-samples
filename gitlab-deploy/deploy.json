@@ -1,0 +1,10 @@
+{
+	"mySampleRepo1": {
+		"path": 	"/var/www/mySample1",
+		"limit":	null
+	},
+	"mySampleRepo2": {
+		"path": 	"/var/www/mySample2",
+		"limit":	"master,stage"
+	}
+}
