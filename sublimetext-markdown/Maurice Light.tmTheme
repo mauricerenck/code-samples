@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Ulysses Light</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#F2F2F2</string>
+				<key>caret</key>
+				<string>#2788bb</string>
+				<key>foreground</key>
+				<string>#3C3C3C</string>
+				<key>invisibles</key>
+				<string>#BFBFBF</string>
+				<key>lineHighlight</key>
+				<string>#e5e5e5</string>
+				<key>selection</key>
+				<string>#e0e9ed</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup: Heading</string>
+			<key>scope</key>
+			<string>markup.heading</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#2788bb</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup: Italic</string>
+			<key>scope</key>
+			<string>markup.italic</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#2788bb</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup: Bold</string>
+			<key>scope</key>
+			<string>markup.bold</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#b00072</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup: Raw</string>
+			<key>scope</key>
+			<string>markup.raw</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#3b8a09</string>
+				<key>background</key>
+				<string>#dfe9e4</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup: Quote</string>
+			<key>scope</key>
+			<string>markup.quote</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#268bd2</string>
+				<key>background</key>
+				<string>#e0e9ed</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup: List</string>
+			<key>scope</key>
+			<string>markup.list</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#268bd2</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown Link Reference</string>
+			<key>scope</key>
+			<string>punctuation.definition.metadata.markdown, string.other.link.title.markdown, meta.link.inline.markdown, meta.link.reference.markdown, string.other.link.description.title.markdown, meta.link.reference.literal.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#b00072</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown Link Actual Text</string>
+			<key>scope</key>
+			<string>string.other.link.title.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#2788bb</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown Link URL Text</string>
+			<key>scope</key>
+			<string>markup.underline.link.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#000000</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup: Separator</string>
+			<key>scope</key>
+			<string>meta.separator</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#eee2e9</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#b00072</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
