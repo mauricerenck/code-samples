@@ -2,4 +2,4 @@
 
 Requires git log and grunt/package.json
 
-[Read more about it here](https://www.maurice-renck.de/de/blog/create-changelog-automatically/)
+[Read more about it here](https://www.maurice-renck.de/en/blog/create-changelog-automatically/)
